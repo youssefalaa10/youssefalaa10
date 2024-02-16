@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefalaa10&label=Profile%20views&color=0e75b6&style=flat" alt="youssefalaa10" /> </p>
 
-- 🔭 I’m currently working on **Trucker Project**
+- 🔭 I’m currently working on **Shoppr Project**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Flutter & Node.js**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
