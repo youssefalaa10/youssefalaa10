@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefalaa10&label=Profile%20views&color=0e75b6&style=flat" alt="youssefalaa10" /> </p>
 
-- 🔭 I’m currently working on **Shoppr Project**
+- 🔭 I’m currently working on **Bella Project**
 
-- 🌱 I’m currently learning **Flutter & Node.js**
+- 🌱 I’m currently learning **Flutter & React.js**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 👯 I’m looking to collaborate on **flutter & React.js projects**
 
-- 💬 Ask me about **Android, flutter**
+- 💬 Ask me about **flutter & React.js**
 
 - 📫 How to reach me **youssefalaacj@gmail.com**
 
